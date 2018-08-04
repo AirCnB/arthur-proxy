@@ -1,0 +1,29 @@
+#wrapper {
+  text-align: center;
+}
+
+#logo {
+  display: inline-block;
+  height: 70px;
+  width: auto;
+  margin-bottom: 10px
+}
+
+#container {
+  width: 1000px;
+  margin: 50px auto;
+}
+
+#listing-description {
+  display: block;
+}
+
+#bookings {
+  float: right;
+  position: sticky;
+  top: 50px;
+}
+
+#reviews {
+  margin: 50px auto;
+}
